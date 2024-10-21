@@ -3,27 +3,27 @@ This repository is a collection of 5 different repositories for a simple bank ap
 
 Welcome! Below is a collection of my projects showcasing my skills in web development, including React, and Spring Boot.
 
-## 1. [Project One](https://github.com/kaouther24/accounts-management-ui)
+## 1. [Project One: Accounts management UI](https://github.com/kaouther24/accounts-management-ui)
 **Description**: A React-based application to manage bank accounts.
 
 **Tech Stack**: React
 
-## 2. [Project Two](https://github.com/kaouther24/customersService)
+## 2. [Project Two: Customers service](https://github.com/kaouther24/customersService)
 **Description**: Microservice to manage customers.
 
 **Tech Stack**: Spring Boot
 
-## 3. [Project Three](https://github.com/kaouther24/accountsService)
+## 3. [Project Three: Accounts service](https://github.com/kaouther24/accountsService)
 **Description**: Microservice to manage customers' bank accounts.
 
 **Tech Stack**: Spring Boot
 
-## 4. [Project Four](https://github.com/kaouther24/transactionsService)
+## 4. [Project Four: Transactions service](https://github.com/kaouther24/transactionsService)
 **Description**: Microservice to manage bank accounts' transactions.
 
 **Tech Stack**: Spring Boot
 
-## 5. [Project Five](https://github.com/kaouther24/financeBFF)
+## 5. [Project Five: Finance BFF service](https://github.com/kaouther24/financeBFF)
 **Description**: Microservice Backend for frontend in between the microservices and the frontend.
 
 **Tech Stack**: Spring Boot
