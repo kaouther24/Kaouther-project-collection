@@ -28,7 +28,7 @@ Welcome! Below is a collection of my projects showcasing my skills in web develo
 
 **Tech Stack**: Spring Boot
 
-
+## 5. Docker build
 **Build docker image for every microservice**:
 
 docker build -t customers-service:latest .
