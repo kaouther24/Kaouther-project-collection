@@ -31,16 +31,16 @@ Welcome! Below is a collection of my projects showcasing my skills in web develo
 ## 6. Docker build
 **Build docker image for every microservice**:
 
-docker build -t customers-service:latest .
-docker build -t transactions-service:latest .
-docker build -t accounts-service:latest .
-docker build -t financebff-service:latest .
+* docker build -t customers-service:latest .
+* docker build -t transactions-service:latest .
+* docker build -t accounts-service:latest .
+* docker build -t financebff-service:latest .
 
 
 **run docker compose where the docker compose file exists**:
 
-docker-compose up
+* docker-compose up
 
 **Stop the services**: 
 
-docker-compose down
+* docker-compose down
