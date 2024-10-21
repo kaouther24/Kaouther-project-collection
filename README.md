@@ -28,7 +28,7 @@ Welcome! Below is a collection of my projects showcasing my skills in web develo
 
 **Tech Stack**: Spring Boot
 
-## 5. Docker build
+## 6. Docker build
 **Build docker image for every microservice**:
 
 docker build -t customers-service:latest .
@@ -38,7 +38,9 @@ docker build -t financebff-service:latest .
 
 
 **run docker compose where the docker compose file exists**:
+
 docker-compose up
 
-***Stop the services**
+**Stop the services**: 
+
 docker-compose down
